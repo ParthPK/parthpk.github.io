@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VidTAG: Temporally Aligned Video to GPS Geolocalization with Denoising Sequence Prediction at a Global Scale"
-description: Determining the GPS location of every frame of a ground video, by direct matching <b>(with National Geospatial Intelligence Agency (NGA))</b>
+description: Determining the GPS location of every frame of a ground video, by direct matching <br> <b>(with National Geospatial Intelligence Agency (NGA))</b>
 img: /assets/img/VidTAG_teaser.png
 redirect: https://parthpk.github.io/projects
 importance: 1
