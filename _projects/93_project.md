@@ -2,7 +2,7 @@
 layout: page
 title: "Exoplanet Detection"
 description:
-img: "/assets/img/exodet.png"
+img: "/assets/img/exodet.jpg"
 redirect: https://parthpk.github.io/projects
 importance: 4
 category: competition/course projects
