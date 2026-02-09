@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geo-HiPO"
+title: Geo-HiPO
 description: Worldwide Image Geolocalization via Hierarchical Preference Optimization <br><b>(with NSF)</b>
 img: /assets/img/geohipo_teaser.png
 redirect: https://parthpk.github.io/projects
