@@ -3,7 +3,7 @@ layout: page
 title: "CityGuessr: Video Geolocalization through Classification"
 description: Identifying the city a video is taken in <br> <b>(with National Geospatial Intelligence Agency (NGA))</b>
 img: /assets/img/publication_preview/Method_page-0001.jpg
-redirect: https://parthpk.github.io/projects
+redirect: https://parthpk.github.io/cityguessr-webpage/
 importance: 1
 category: research projects
 ---
