@@ -2,7 +2,7 @@
 layout: page
 title: "Eye in the Sky"
 description: 
-img: "/assets/img/eyesky.png"
+img: "/assets/img/eyesky.jpg"
 redirect: https://parthpk.github.io/projects
 importance: 4
 category: competition/course projects
