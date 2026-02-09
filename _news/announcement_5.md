@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📚 Started Ph.D. at Center for Research in Computer Vision, University of Central Florida
+🏫 Started Ph.D. at Center for Research in Computer Vision, University of Central Florida
