@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CityGuessr: Video Geolocalization through Classification"
-description: Identifying the city a video is taken in __(with National Geospatial Intelligence Agency (NGA))__
+description: Identifying the city a video is taken in <br> <b>(with National Geospatial Intelligence Agency (NGA))</b>
 img: /assets/img/publication_preview/Method_page-0001.jpg
 redirect: https://parthpk.github.io/projects
 importance: 1
