@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: "NeuroChat"
+description: VLM for Tumor Grounding
+img: "/assets/img/NeuroChat Overview.png"
+redirect: https://parthpk.github.io/projects
 importance: 4
 category: competition/course projects
 ---
