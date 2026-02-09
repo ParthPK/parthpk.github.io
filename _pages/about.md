@@ -9,8 +9,8 @@ profile:
   image: ParthParagKulkarniPhoto_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CRCV, UCF</p>
-    <p>Orlando, Florida</p>
+    <p>CRCV, UCF</p><br>
+    <p>Orlando, Florida</p><br>
     <p>United States</p>
 
 news: true # includes a list of news items
