@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CRCV, UCF</p>
-    <p>University of Central Florida</p>
     <p>Orlando, Florida</p>
     <p>United States</p>
 
