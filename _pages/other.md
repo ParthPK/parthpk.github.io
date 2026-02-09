@@ -2,7 +2,7 @@
 layout: page
 permalink: /other/
 title: other
-description: Materials for courses you taught. Replace this text with your description.
+description: Other information about my professional services, interests and positions of responsibility
 nav: true
 nav_order: 6
 ---
