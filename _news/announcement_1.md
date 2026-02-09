@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Paper titled '<a href="https://ucf-crcv.github.io/GAEA/">GAEA: A Geolocation Aware Conversational Assistant</a>' accepted in WACV 2026 (Round 1 - 6.4% Acceptance Rate). 🎉
+🎉 Paper titled <a href="https://ucf-crcv.github.io/GAEA/">'GAEA: A Geolocation Aware Conversational Assistant'</a> accepted in WACV 2026 (Round 1 - 6.4% Acceptance Rate). 🎉
