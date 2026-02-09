@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 🎉 Paper titled <a href="https://arxiv.org/abs/2406.16932">Xi-Net: Transformer Based Seismic Waveform Reconstructor
-</a> accepted in ICIP 2023 (Oral Presentation). 🎉
+</a> accepted in ICIP 2023 <b>(Oral Presentation)</b> 🎉
