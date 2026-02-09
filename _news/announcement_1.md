@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-06-01 15:59:00-0400
+date: 2025-09-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Graduated from IIT Patna with B. Tech in Computer Science and Engineering
+🎉 Paper titled '<a href="https://ucf-crcv.github.io/GAEA/">GAEA: A Geolocation Aware Conversational Assistant</a>' accepted in WACV 2026 (Round 1 - 6.4% Acceptance Rate). 🎉
