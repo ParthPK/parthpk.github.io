@@ -3,7 +3,7 @@ layout: page
 title: "MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis"
 description: Flexible Multi-Agent System for Medical Diagnosis
 img: /assets/img/publication_preview/MedAgent_Teaser.png
-redirect: https://parthpk.github.io/projects
+redirect: https://parthpk.github.io/medroute-webpage
 importance: 1
 category: research projects
 ---
