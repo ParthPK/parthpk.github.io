@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://www.crcv.ucf.edu/'>Center for Research in Computer Vision, University of Central Florida</a>
+subtitle: Ph.D. Candidate, <a href='https://www.crcv.ucf.edu/'>Center for Research in Computer Vision, Institute of Artificial Intelligence, University of Central Florida</a>
 
 profile:
   align: right
